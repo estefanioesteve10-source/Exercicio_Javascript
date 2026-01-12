@@ -1,4 +1,8 @@
-//Calculadora
+/*
+* Este programa é uma calculadora simples em JavaScript
+* que solicita ao usuário dois números e uma operação matemática
+* (adição, subtração, multiplicação ou divisão) e exibe o resultado.
+*/
 
 const { parse } = require('path');
 const readline = require('readline');

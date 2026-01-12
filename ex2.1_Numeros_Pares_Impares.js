@@ -1,3 +1,8 @@
+/*
+* Este programa separa os números pares e ímpares de um array,
+* calcula a soma dos números pares e ímpares e imprime os resultados.
+*/
+
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const peers = [];
 const nonPeers = [];
